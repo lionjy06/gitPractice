@@ -13,4 +13,4 @@ test2
 안녕 나는 깃 여우야!
 안녕 나는 깃 문어야!
 test/cat
-test/oct
+test/oct test/fox
